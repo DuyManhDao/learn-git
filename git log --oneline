@@ -1,0 +1,23 @@
+[33mcommit a359d91e26c4ad7fb632680cbe8f757d522d44d3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mfeature3[m[33m, [m[1;32mfeature1[m[33m)[m
+Author: Duy Manh <ddmanh4t2002@gmail.com>
+Date:   Fri Jun 28 15:32:55 2024 +0700
+
+    new text4
+
+[33mcommit 70ffde3f9e478307f3413bbb9b1cee0d2c17d780[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Duy Manh <ddmanh4t2002@gmail.com>
+Date:   Fri Jun 28 15:04:45 2024 +0700
+
+    Thay doi noi dung text3 lan 2
+
+[33mcommit cf03222eee70d371276210ad7e8f03861c8a25bb[m[33m ([m[1;32mfeature2[m[33m)[m
+Author: Duy Manh <ddmanh4t2002@gmail.com>
+Date:   Fri Jun 28 14:43:23 2024 +0700
+
+    Them file noi dung 1 lan2
+
+[33mcommit f4a48da8235c78ce8a907f41a3d5445395b34626[m
+Author: Đào Mạnh <132563502+DuyManhDao@users.noreply.github.com>
+Date:   Fri Jun 28 14:14:46 2024 +0700
+
+    Initial commit
